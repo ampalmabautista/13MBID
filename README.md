@@ -1,4 +1,4 @@
-# 13MIBD Template
+# 13MBID Template
 
 Plantilla de repositorio para la asignatura 13MBID.  
 
