@@ -1,0 +1,5 @@
+outs:
+- md5: 2c88644a055d5336f7206d57ce873497
+  size: 935914
+  hash: md5
+  path: datos_creditos_mc.csv
